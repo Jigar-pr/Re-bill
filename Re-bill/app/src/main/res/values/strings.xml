@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">rE-billdemo</string>
+    <string name="table_no">Table No</string>
+    <string name="order">Order</string>
+    <string name="bill">Bill</string>
+    <string name="pricing">pricing</string>
+    <string name="bilsl">Bill</string>
+    <string name="pavsa_bhaji">pav bhaji</string>
+    <string name="pavs_bhaji">pav bhaji</string>
+    <string name="tosdo">TODO</string>
+    <string name="tozdo">TODO</string>
+    <string name="todso">TODO</string>
+    <string name="pavas_bhaji">pav bhaji</string>
+    <string name="pasv_bhaji">pav bhaji</string>
+    <string name="todo">TODO</string>
+    <string name="dish">Dish</string>
+    <string name="price">Price</string>
+    <string name="price">Price</string>
+    <string name="price">Price</string>
+    <string name="price">Price</string>
+    <string name="total_price">Total Price</string>
+    <string name="dish">Dish</string>
+    <string name="dish">Dish</string>
+    <string name="dish">Dish</string>
+</resources>
